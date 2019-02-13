@@ -22,3 +22,9 @@ html{
     height: .5rem;
     background: #aaa;
 }
+footer{
+    width: 100%;
+    height: 44px;
+    background: green;
+    border-top: 1px solid #ccc;
+}
